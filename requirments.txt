@@ -1,0 +1,21 @@
+# Web Scraping
+beautifulsoup4==4.12.2  # HTML parsing and data extraction
+requests==2.31.0        # HTTP requests with session handling
+
+# GUI Development
+tkinter==0.1.0          # Built-in Python GUI toolkit (Tkinter)
+
+# Data Processing
+csv==1.0                # Built-in CSV file handling
+json==2.0.9             # Built-in JSON serialization
+
+# Concurrency
+concurrent.futures==1.0  # Built-in threading support
+
+# Development Utilities
+unittest==1.0           # Built-in testing framework
+pathlib==1.0.1          # File path operations
+typing==3.7.4.3         # Type hints support
+
+# Runtime Dependencies
+urllib3==1.26.16        # URL handling (required by requests)

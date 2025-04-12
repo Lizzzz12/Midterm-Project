@@ -1,0 +1,17 @@
+
+=== TAG ANALYSIS ===
+Total unique tags: 137
+Total tag uses: 232
+Average tags per quote: 2.3
+
+Top 10 most popular tags:
+- love: 14 quotes
+- inspirational: 13 quotes
+- life: 13 quotes
+- humor: 12 quotes
+- books: 11 quotes
+- reading: 7 quotes
+- friendship: 5 quotes
+- friends: 4 quotes
+- truth: 4 quotes
+- simile: 3 quotes
